@@ -2,7 +2,7 @@
 #------------------------------------------------------------------------------
 # CSC 412-Networking
 # Expanding A Protocol 
-# Authors: Sher Sanginov,Jose Zindia, Dary Sullivan, Andrew Mambondiumwe & Johanathan Chauwa
+# Authors: Jose Zindia, 
 #------------------------------------------------------------------------------
 import socket
 import sys
